@@ -1,29 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+My name is Kareem and I'm a **Front-End Developer** from Ismailia 🌍  
 
-<p align="left">My name is Kareem and I'm a  Front-End Developer from Ismailia</p>
+---
 
-###
+## 🚀 About Me
+- 👨‍💻 I'm a passionate **Front-End Developer** who loves turning ideas into interactive web experiences.  
+- 📚 Skilled in **HTML, CSS, JavaScript, and React**.  
+- 🌱 Always curious to learn new technologies and improve my skills.  
+- 🤝 Open to collaborating on exciting projects and contributing to open-source.  
+- ⚡ Fun fact: I enjoy solving tricky bugs — even when the fix is just a missing semicolon!  
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+</p>
 
-<p align="left">✨ I have been learning front end for a year.  👨‍💻<br><br>📚 I'm currently learning React, Nextjs. ✅<br><br>🎯 Goals: Contribute to open source projects and build professional front-end projects.  ⏳<br><br>🎲 Fun fact: I can spend hours fixing a bug, only to realize it was a missing semicolon 😅</p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
+## 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kareem-mohamed-67240a361)  
+- 📧 karemmohamed8359@gmail.com  
